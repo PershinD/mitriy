@@ -1,0 +1,6 @@
+D:\Microsoft Visual Studio\будильник\будильник\obj\Debug\будильник.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\будильник\будильник\obj\Debug\будильник.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\будильник\будильник\obj\Debug\будильник.Form1.resources
+D:\Microsoft Visual Studio\будильник\будильник\obj\Debug\будильник.Properties.Resources.resources
+D:\Microsoft Visual Studio\будильник\будильник\obj\Debug\будильник.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\будильник\будильник\obj\Debug\будильник.csproj.CoreCompileInputs.cache
